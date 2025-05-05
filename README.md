@@ -1,18 +1,28 @@
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=Blur&color=0:8B5CF6,100:EC4899&height=200&text=github.com%2FDaEun&fontSize=40&fontColor=CCCCCC&font=Fira%20Code"
+    alt="DaEun GitHub Banner"
+/>
+</div>
+<h3 align="center" style="color:#CCCCCC; border-bottom:1px solid #444;">Tech Stack</h3>
 
- <div class="header" align= "center">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=DaEun's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="DaEun's GitHub">
-    </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Styled--Components-000000?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
+</p>
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
-    <div style="margin: 0 auto; text-align: center;" align= "center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
-      <br/>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- </div>
-</div><br>
+<br/>
+
+<h3 align="center" style="color:#CCCCCC; border-bottom:1px solid #444;">Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
