@@ -1,9 +1,10 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=Blur&color=0:8B5CF6,100:EC4899&height=200&text=github.com%2FDaEun&fontSize=40&fontColor=CCCCCC&font=Fira%20Code"
+    src="https://capsule-render.vercel.app/api?type=Blur&color=0:333333,100:CCCCCC&height=200&text=github.com%2FDaEun&fontSize=40&fontColor=FFFFFF&font=Fira%20Code"
     alt="DaEun GitHub Banner"
 />
 </div>
+
 <h3 align="center" style="color:#CCCCCC; border-bottom:1px solid #444;">Tech Stack</h3>
 
 <p align="center">
