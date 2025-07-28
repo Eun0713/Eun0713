@@ -43,7 +43,7 @@ Whisper + ffmpeg 실시간 음성 분석<br/>
 
 <br/>
 
-<h2 align="center">📧 Contact Me</h2>
+<h2 align="center">📩 Contact Me</h2>
 <p align="center">
-  <code>daeunlee0713@gmail.com</code>
+  <strong>Gmail:</strong> daeunlee0713@gmail.com
 </p>
