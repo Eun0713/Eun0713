@@ -1,6 +1,5 @@
-> # DaEun's Github
-
-작은 인터랙션에도 맥락을 담는 프론트엔드 개발자, 이다은입니다.
+# DaEun's Github
+>***"동작보다 경험, 기능보다 흐름을 먼저 설계합니다."***
 
 <br>
 
@@ -22,7 +21,6 @@
 
 ## Tech Stack
 <div style="margin-top: 12px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="HTML5" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" alt="CSS3" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" />
@@ -30,8 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56" alt="React" title="React" />
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1657314490/noticon/ur8spzfcq4acw7ijp68v.png" height="56" alt="tailwindcss logo"  />
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1741157974/noticon/whqhhulwqkiyt2ebgbr6.png" height="56" alt="Zustand logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="56" alt="Storybook" title="Storybook" />
-
 </div>
 
 <br>
