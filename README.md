@@ -29,8 +29,3 @@
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1657314490/noticon/ur8spzfcq4acw7ijp68v.png" height="56" alt="tailwindcss logo"  />
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1741157974/noticon/whqhhulwqkiyt2ebgbr6.png" height="56" alt="Zustand logo"  />
 </div>
-
-<br>
-
-## Contact Me
-📩 Gmail: daeunlee0713@gmail.com
