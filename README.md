@@ -1,23 +1,34 @@
 # DaEun's Github
->***"동작보다 경험, 기능보다 흐름을 먼저 설계합니다."***
+동작보다 경험, 기능보다 흐름을 먼저 설계합니다. <br/>
+디자인과 개발의 경계를 넘나들며 "왜 그렇게 설계해야 하는가"를 끝까지 고민합니다.
+<br/><br/>
+*I design for experience before action, and prioritize flow over features.* <br/>
+*I constantly cross the boundary between design and development, questioning why things should be built that way until the very end.*
 
-<br>
+📩 Contact me: daeunlee.dev@gmail.com
+
+<br/>
 
 ## Featured Projects
 
-#### 제스처 기반 브라우저 컨트롤러, ***Swaii*** [🔗](https://github.com/Eun0713/swaii-extension)
-웹에서 마우스 제스처로 빠르고 직관적인 동작을 실행할 수 있는 **Chrome 확장 프로그램**  
-- Canvas 기반 제스처 입력 시스템  
-- 유사도 비교로 제스처 매핑 실행  
+#### 제스처 기반 브라우저 컨트롤러, ***Swaii***  [[익스텐션 레포지토리🔗]](https://github.com/Eun0713/swaii-extension) [[서버 레포지토리🔗]](https://github.com/Eun0713/swaii-server) 
+> ##### 개인 프로젝트 (기획 1주 + 핵심 개발 3주) 
+> 마우스 제스처로 원하는 웹 동작을 빠르게 실행할 수 있는 Chrome 확장 프로그램
+> - Canvas 기반 제스처 입력 시스템  
+> - 유사도 비교로 제스처 매핑 실행  
 
-<br>
+<br/>
 
-#### 광고 자동 스킵 라디오 스트리밍 도구, ***RadioPremium*** [🔗](https://github.com/Radio-Premium/RadioPremium-FE)
-**라디오 음성 콘텐츠에서 광고를 탐지하고 자동으로 건너뛰는** 광고 스킵 도구  
-- Whisper + ffmpeg 실시간 음성 분석  
-- 사용자의 청취 흐름을 끊지 않는 UX  
+#### 광고 자동 스킵 라디오 스트리밍 도구, ***RadioPremium***
+<a href="https://github.com/sokuri-org/sokuri-ios">Client Repository</a> |
+<a href="https://github.com/sokuri-org/sokuri-ios">Server Repository</a> |
+<a href="https://github.com/sokuri-org/sokuri-ios">Whisper Repository</a>
+> ##### 팀 프로젝트 (기획 1주 + 핵심 개발 4주) 
+> 라디오 음성 콘텐츠에서 광고를 탐지하고 자동으로 건너뛰는 광고 스킵 도구  
+> - Whisper + ffmpeg 실시간 음성 분석  
+> - 사용자의 청취 흐름을 끊지 않는 UX  
 
-<br>
+<br/>
 
 ## Tech Stack
 <div style="margin-top: 12px;">
