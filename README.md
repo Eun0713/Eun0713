@@ -32,13 +32,14 @@
 
 <br/>
 
+
 ## Tech Stack
 <div style="margin-top: 12px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="HTML5" title="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" alt="CSS3" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="56" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56" alt="React" title="React" />
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1657314490/noticon/ur8spzfcq4acw7ijp68v.png" height="56" alt="tailwindcss logo"  />
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1741157974/noticon/whqhhulwqkiyt2ebgbr6.png" height="56" alt="Zustand logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="56" alt="nodejs logo"  />
+<img src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" height="56" alt="express logo" />
+
 </div>
