@@ -11,7 +11,9 @@
 
 ## Featured Projects
 
-#### 제스처 기반 브라우저 컨트롤러, ***Swaii***  [[익스텐션 레포지토리🔗]](https://github.com/Eun0713/swaii-extension) [[서버 레포지토리🔗]](https://github.com/Eun0713/swaii-server) 
+#### 제스처 기반 브라우저 컨트롤러, ***Swaii***
+<a href="https://github.com/Eun0713/swaii-extension">Extension Repository</a> |
+<a href="https://github.com/Eun0713/swaii-server">Server Repository</a>
 > ##### 개인 프로젝트 (기획 1주 + 핵심 개발 3주) 
 > 마우스 제스처로 원하는 웹 동작을 빠르게 실행할 수 있는 Chrome 확장 프로그램
 > - Canvas 기반 제스처 입력 시스템  
@@ -20,9 +22,9 @@
 <br/>
 
 #### 광고 자동 스킵 라디오 스트리밍 도구, ***RadioPremium***
-<a href="https://github.com/sokuri-org/sokuri-ios">Client Repository</a> |
-<a href="https://github.com/sokuri-org/sokuri-ios">Server Repository</a> |
-<a href="https://github.com/sokuri-org/sokuri-ios">Whisper Repository</a>
+<a href="https://github.com/Radio-Premium/RadioPremium-FE">Client Repository</a> |
+<a href="https://github.com/Radio-Premium/RadioPremium-BE">Server Repository</a> |
+<a href="https://github.com/Radio-Premium/RadioPremium-Whisper">Whisper Repository</a>
 > ##### 팀 프로젝트 (기획 1주 + 핵심 개발 4주) 
 > 라디오 음성 콘텐츠에서 광고를 탐지하고 자동으로 건너뛰는 광고 스킵 도구  
 > - Whisper + ffmpeg 실시간 음성 분석  
