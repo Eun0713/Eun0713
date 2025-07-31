@@ -15,9 +15,9 @@
 <a href="https://github.com/Eun0713/swaii-extension">Extension Repository</a> |
 <a href="https://github.com/Eun0713/swaii-server">Server Repository</a>
 > ##### 개인 프로젝트 (기획 1주 + 핵심 개발 3주) 
-> 마우스 제스처로 원하는 웹 동작을 빠르게 실행할 수 있는 Chrome 확장 프로그램
-> - Canvas 기반 제스처 입력 시스템  
-> - 유사도 비교로 제스처 매핑 실행  
+마우스 제스처로 원하는 웹 동작을 빠르게 실행할 수 있는 Chrome 확장 프로그램
+- Canvas 기반 제스처 입력 시스템  
+- 유사도 비교로 제스처 매핑 실행  
 
 <br/>
 
@@ -26,9 +26,9 @@
 <a href="https://github.com/Radio-Premium/RadioPremium-BE">Server Repository</a> |
 <a href="https://github.com/Radio-Premium/RadioPremium-Whisper">Whisper Repository</a>
 > ##### 팀 프로젝트 (기획 1주 + 핵심 개발 4주) 
-> 라디오 음성 콘텐츠에서 광고를 탐지하고 자동으로 건너뛰는 광고 스킵 도구  
-> - Whisper + ffmpeg 실시간 음성 분석  
-> - 사용자의 청취 흐름을 끊지 않는 UX  
+라디오 음성 콘텐츠에서 광고를 탐지하고 자동으로 건너뛰는 광고 스킵 도구  
+- Whisper + ffmpeg 실시간 음성 분석  
+- 사용자의 청취 흐름을 끊지 않는 UX  
 
 <br/>
 
