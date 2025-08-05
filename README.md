@@ -26,7 +26,7 @@
 <a href="https://github.com/Radio-Premium/RadioPremium-BE">Server Repository</a> |
 <a href="https://github.com/Radio-Premium/RadioPremium-Whisper">Whisper Repository</a>
 > ##### 팀 프로젝트 (기획 1주 + 핵심 개발 4주) 
-라디오 음성 콘텐츠에서 광고를 탐지하고 자동으로 건너뛰는 광고 스킵 도구  
+라디오 음성 콘텐츠에서 광고를 탐지하고 자동 채널 전환과 복귀를 수행하는 광고 스킵 도구
 - Whisper + ffmpeg 실시간 음성 분석  
 - 사용자의 청취 흐름을 끊지 않는 UX  
 
