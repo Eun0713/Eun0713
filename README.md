@@ -23,9 +23,9 @@
 <br/>
 
 #### 광고 자동 스킵 라디오 스트리밍 도구, ***RadioPremium***
-<a href="https://github.com/Radio-Premium/RadioPremium-FE">Client Repository</a> |
-<a href="https://github.com/Radio-Premium/RadioPremium-BE">Server Repository</a> |
-<a href="https://github.com/Radio-Premium/RadioPremium-Whisper">Whisper Repository</a>
+<a href="https://github.com/Radio-Premium/radio-premium-fe">Client Repository</a> |
+<a href="https://github.com/Radio-Premium/radio-premium-be">Server Repository</a> |
+<a href="https://github.com/Radio-Premium/radio-premium-ai">AI Repository</a>
 > ##### 팀 프로젝트 (기획 1주 + 핵심 개발 4주) 
 라디오 음성 콘텐츠에서 광고를 탐지하고 자동 채널 전환과 복귀를 수행하는 광고 스킵 도구
 - Whisper + ffmpeg 실시간 음성 분석  
