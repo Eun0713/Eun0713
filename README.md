@@ -13,7 +13,8 @@
 
 #### 제스처 기반 브라우저 컨트롤러, ***Swaii***
 <a href="https://github.com/Eun0713/swaii-extension">Extension Repository</a> |
-<a href="https://github.com/Eun0713/swaii-server">Server Repository</a>
+<a href="https://github.com/Eun0713/swaii-server">Server Repository</a> |
+<a href="https://chromewebstore.google.com/detail/swaii/eldcllfbfacbknogjmmbbdnmamfdhgkm?hl=ko&utm_source=ext_sidebar">Web Store</a>
 > ##### 개인 프로젝트 (기획 1주 + 핵심 개발 3주) 
 마우스 제스처로 원하는 웹 동작을 빠르게 실행할 수 있는 Chrome 확장 프로그램
 - Canvas 기반 제스처 입력 시스템  
